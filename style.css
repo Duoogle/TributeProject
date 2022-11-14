@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    background-color: black;
+    font-family: 'Lucida Sans', cursive;
+    text-align: center;
+}
+
+.tagline {
+    font-family: arial;
+    color: gray;
+    line-height:125px;
+}
+
+/* Header */
+h1 {
+    margin: 0;
+    background-color: black;
+    line-height: 100px;
+    color: whitesmoke;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.container {
+    border: 3px solid snow;
+}
+
+/* Pictures*/
+.pictures {
+    background-color: aliceblue;
+}
+.beignets {
+    width: 25%;
+}
+.streetCar {
+    width: 25%;
+}
+
+/* Quote Section */
+.quote {
+    background-color: gray;
+}
+
+.quote h3 {
+    width: 100%;
+    margin: auto;
+    color: white;
+    line-height: 90px;
+    font-size: 24px;
+}
+
+/* Footer */
+footer {
+    font-size: 26px;
+}
